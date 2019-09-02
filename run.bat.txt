@@ -1,0 +1,2 @@
+cd C:\Users\Shahin Alam\Page-Object-Model.git\FreeCRMTestAutomation
+mvn clean install
